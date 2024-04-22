@@ -1,0 +1,7 @@
+#root {
+  width: 100vw;
+  height: 100vh;;
+  margin: 0 auto;
+  text-align: center;
+  background: linear-gradient(70deg, #121829,#48494b);
+}
